@@ -16,3 +16,4 @@ System.out.println("Course Title: " + courseTitle);
 System.out.println("Credit Hours: " + creditHours);
 }
 }
+//hallo

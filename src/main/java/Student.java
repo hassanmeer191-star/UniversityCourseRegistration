@@ -13,5 +13,6 @@ public void displayStudent() {
 System.out.println("Student ID: " + studentID);
 System.out.println("Student Name: " + studentName);
 System.out.println("Department: " + department);
+    System.out.println("Skill== Zero.");
 }
 }
